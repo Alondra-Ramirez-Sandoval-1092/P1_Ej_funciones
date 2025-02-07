@@ -5,7 +5,7 @@ void saludar(){
 }
 
 void escribeNombre(){
-  print('Alondra Ramirez')
+  print('Alondra Ramirez');
 }
 
 void main(){
