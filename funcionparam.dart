@@ -3,7 +3,7 @@ void saludar(String nombre, String mensaje) {
   print("$mensaje, $nombre!");
 }
 
-// Segunda función: Suma dos números
+// Segunda función: Calcula la edad de una persona
 void edad(int fecha, int edad) {
   print("naciste en $fecha, tienes $edad años");
 }
